@@ -1,7 +1,6 @@
 import datetime
 
-print("WELCOME TO THE BUDGET CALCULATOR. THIS CALCULATOR WILL TELL YOUR BUDGET FOR BUYING A NEW PROPERTY.\n")
-
+print("WELCOME TO THE HOUSE PRICE BUDGET CALCULATOR. THIS CALCULATOR WILL TELL YOUR BUDGET FOR BUYING A NEW PROPERTY.\n")
 
 def htb_equity_loan(equity_loan):
     if equity_loan == "Yes" or equity_loan == "yes":
