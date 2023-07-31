@@ -1,6 +1,12 @@
 # HOUSE BUDGET CALCULATOR
 
-This house price calculator is designed to calculate the budget for a homeowner looking to move to a new house. It calculates the proceeds from the sale of their current house, any extra cash they will put down as a deposit, and borrowing from a lender.
+This house price calculator is designed to calculate the budget for a homeowner looking to move to a new house.
+
+Assumptions:
+- You are not a first-time buyer
+- You intend to sell your current property and buy a new property
+
+It calculates the proceeds from the sale of your current property, any extra cash you will put down as a deposit, and borrowing from a lender.
 
 The amount borrowed is based on how many applicants are applying for the mortgage and their current salaries.
 
