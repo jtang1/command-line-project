@@ -32,8 +32,8 @@ def mortgage_borrow_range(no_of_applicants):
 def budget_calculator(deposit, proceeds, lower_limit, upper_limit):
     budget_lower = deposit + proceeds + lower_limit
     budget_higher = deposit + proceeds + upper_limit
-    print("The lower limit of house price you can purchase is " + "£" + "{:,.2f}".format(budget_lower))
-    print("The upper limit of house price you can purchase is " + "£" + "{:,.2f}".format(budget_higher))
+    print("The lower limit of house price you can purchase is " + "£" + "{:,.2f}".format(budget_lower) + ".")
+    print("The upper limit of house price you can purchase is " + "£" + "{:,.2f}".format(budget_higher) + ".")
 
 
 if __name__ == '__main__':
